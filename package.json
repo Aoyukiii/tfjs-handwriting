@@ -1,0 +1,16 @@
+{
+  "name": "tfjs-handwriting",
+  "version": "1.0.0",
+  "description": "This is a project for the training of handwriting recognition neural network.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuki",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.19.0",
+    "canvas": "^2.11.2",
+    "mnist": "^1.1.0"
+  }
+}
